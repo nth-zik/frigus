@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://getferdi.com">
+    <a href="https://frigus.app">
       <img src="./build-helpers/images/icon.png" alt="Ferdi" width="250"/>
     </a>
 </p>
 <p align="center">
-    <a href="https://getferdi.com/download">
+    <a href="https://frigus.com/download">
       <img src="./branding/download.png" alt="Download" width="150"/>
     </a>
 </p>
@@ -28,26 +28,12 @@ Ferdi is a desktop app that helps you organize how you use your favourite apps b
 
 ## Download
 
-👉 [getferdi.com/download](https://getferdi.com/download/)
+👉 [getferdi.com/download](https://frigus.app/download/)
 
-Assets made available via [GitHub releases](https://github.com/getferdi/ferdi/releases/latest).
+Assets made available via [GitHub releases](https://github.com/nth-zik/frigus/releases/latest).
 
-_Find answers to frequently asked questions on [getferdi.com/faq](https://getferdi.com/faq/)._
+_Find answers to frequently asked questions on [getferdi.com/faq](https://frigus.app/faq/)._
 
 ## Contributing
 
 Please read the [contributing guidelines](CONTRIBUTING.md) to setup your development machine and proceed.
-
-## Sponsors
-
-<p>
-  <a href="https://www.digitalocean.com/?refcode=5292301af793">
-    <img src="./branding/digitalocean.svg" alt="DigitalOcean" height="32px">
-  </a>
-</p>
-<p>
-  <a href="https://www.parallels.com/">
-    <img src="./branding/parallels.svg" alt="Parallels" height="30px">
-  </a>
-</p>
-
